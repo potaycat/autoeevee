@@ -1,0 +1,6 @@
+git+https://github.com/hsahovic/poke-env.git
+--index-url https://download.pytorch.org/whl/cu130
+torch
+stable_baselines3
+# pygame
+# opencv-python
